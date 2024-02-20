@@ -1,0 +1,1 @@
+**On My Way Website** is a fully responsive website, Responsive for all devices, build using HTML, CSS, and JavaScript. The purpose of this website is to provide services to customer to buy and sell their cars.
